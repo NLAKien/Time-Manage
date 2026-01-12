@@ -1,0 +1,24 @@
+Report for 01/2026
+==============================
+
+Events in 01/2026 (3 total):
+
+01/01/2026 - New Year
+    Time: 00:00
+    Location: Home
+    Category: Ca nhan
+    Description: Celebrate the new year
+
+09/01/2026 - Presentation
+    Time: 08:00
+    Location: School
+    Category: Hoc tap
+    Description: Present the miniproject
+
+30/01/2026 - The test last term
+    Time: 12:00
+    Location: School
+    Category: Hoc tap
+    Description: Finished
+
+--- End ---
